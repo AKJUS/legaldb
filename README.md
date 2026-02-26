@@ -1,14 +1,14 @@
 # legaldb
 
-<p align="center">
-    <a href="https://github.com/creativecommons/caselaw/blob/master/LICENSE"><img alt="MIT license" src="https://img.shields.io/github/license/creativecommons/vocabulary.svg?color=brightgreen"/></a>
-    <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
-</p>
+> [!WARNING]
+> The [LegalDB.creativecommons.org][legaldb] website is now a static copy. The site and its data are no longer being maintained. The source of the static site is located at: [creativecommons/legaldb-static](https://github.com/creativecommons/legaldb-static).
 
-CC Legal Database: curated repository of Case Law and Scholarship data from
-around the world in a Django based website.
+[legaldb]: https://legaldb.creativecommons.org/
 
-**[legaldb.creativecommons.org](https://legaldb.creativecommons.org/)**
+~~CC Legal Database: curated repository of Case Law and Scholarship data from
+around the world in a Django based website.~~
+
+~~**[legaldb.creativecommons.org](https://legaldb.creativecommons.org/)**~~
 
 
 ## Code of conduct
